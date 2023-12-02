@@ -1,7 +1,10 @@
 {
     "require": {
         "slim/slim": "4.*",
-        "guzzlehttp/psr7": "^2"
+        "guzzlehttp/psr7": "^2",
+        "predis/predis": "^2.2",
+        "slim/psr7": "^1.6",
+        "monolog/monolog": "^3.5"
     },
     "autoload": {
         "psr-4": {
